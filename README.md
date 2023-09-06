@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bilqis Apole
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data Analytics with Microsoft PowerBI. 
+- 🌱 I’m currently learning Data Analytics using Microsoft Excel, PowerBI, and SQL. 
 - 💞️ I’m looking to collaborate with other Data Enthusiast on here or other platforms for me to learn more and grow...
 - 📫 How to reach me @BilqisApole on all social media platforms ...
 
