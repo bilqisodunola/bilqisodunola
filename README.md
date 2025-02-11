@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bilqis Apole
-- 👀 I’m interested in Data Analytics
-- 🌱 Currently, I am on a journey to learn data analysis using Microsoft Excel, Power BI, SQL and SPSS. 
-- 💞️ I’m looking to collaborate with other Data enthusiasts on here or other platforms for me to learn more and grow...
+- 👀 I’m passionate about Data and Analysis
+- 🌱 Currently, I am on a journey to learn data analysis using Microsoft Excel, Power BI, SQL and Python. 
+- 💞️ I’m looking to collaborate with other Data enthusiasts on here or other platforms to learn more and grow...
 - 📫 How to reach me @BilqisApole on all social media platforms ...
 
 <!---
